@@ -6,8 +6,7 @@ Abre Codespaces:
 
 ![alt text](https://github.com/Cloud-Communications-Tknika/champolion/blob/main/image/README/1683020588091.png)
 
-
-Comandos para ejecutarlo:
+Comandos para ejecutar el programa:
 
 ```bash
 g++ champolion.cpp
