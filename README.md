@@ -4,10 +4,7 @@ Prueba Codespaces con este ejercicio propuesto en el ProgramaMe de 2023. [Enunci
 
 Abre Codespaces:
 
-
-```
-![alt text](https://github.com/Cloud-Communications-Tknika/champolion/README/1683020588091.png?raw=true)
-```
+![alt text](https://github.com/Cloud-Communications-Tknika/champolion/blob/main/image/README/1683020588091.png)
 
 
 Comandos para ejecutarlo:
